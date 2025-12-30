@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 yo, i'm ray<br>a full-stack dev trying to make sense of the web.<br>**current status:**
 🟢 available for freelance
 
