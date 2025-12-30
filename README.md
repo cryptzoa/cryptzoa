@@ -2,8 +2,6 @@
 yo, i'm ray<br>a full-stack dev trying to make sense of the web.<br>**current status:**
 🟢 available for freelance
 
-**tech stack:**
-js • ts • react • laravel • 💅
 
 > "it works on my machine" - me, probably
 
