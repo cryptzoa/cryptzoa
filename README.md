@@ -19,6 +19,6 @@ yo, i'm ray<br>a full-stack dev trying to make sense of the web.<br>**current st
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cryptzoa/cryptzoa/output/snake.svg" alt="Snake animation" />
 
 ###
