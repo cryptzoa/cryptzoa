@@ -15,10 +15,10 @@ yo, i'm ray<br>a full-stack dev trying to make sense of the web.<br>**current st
 ![](https://nirzak-streak-stats.vercel.app/?user=cryptzoa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptzoa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cryptzoa&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+###
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cryptzoa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br clear="both">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
