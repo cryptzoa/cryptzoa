@@ -1,8 +1,6 @@
 # 💫 About Me:
 yo, i'm ray<br>a full-stack dev trying to make sense of the web.<br>**current status:**
 🟢 available for freelance
-🟡 building Web HMTI
-🔴 fixing hydration errors
 
 **tech stack:**
 js • ts • react • laravel • 💅
